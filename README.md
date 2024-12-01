@@ -77,7 +77,7 @@ It consists of two criteria: 1) Description/Writing (12 points), and 2) Code (7 
 
 
 | **Written Portion** 📝 | **Code Portion** 🖥️ ||**Total** ➕ |**Notes** 🗒️|
-| ---------: | -------------------: |-------------: | ---------- |
+| :------------------------------- | -------: |-------: | :----    |
 
 |       /14  |                   /6 |            /20|           |
 
