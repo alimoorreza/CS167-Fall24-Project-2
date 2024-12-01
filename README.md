@@ -30,7 +30,7 @@ You need to create a Colab notebook starting from here [_Project_2_starter noteb
     
 3.  **Data Preparation** [1 point]: Explain your data preparation. What steps did you have to take to prepare your data for experiments, such as normalization, etc.? Which PyTorch function is responsible for performing the normalization? Just mention the name.
 4.  **Metrics** [1 point]: What metrics will you use to evaluate your model? Why are these metrics the best for your model? (Hint, this should be more than 'accuracy').
-5.  **Model Planning and Execution** [1 point]: Identify which learning algorithms you will try and which important parameters you will tune for each one. [Hint: you can find it from previous notebooks, such as [Day22: CNN finetuning](https://github.com/alimoorreza/CS167-sp24-notes/blob/main/Day22_CNN_finetuning.ipynb).
+5.  **Model Planning and Execution** [1 point]: Identify which learning algorithms you will try and which important parameters you will tune for each one. [Hint: you can find it from previous notebooks, such as [Day23: CNN finetuning](https://github.com/alimoorreza/CS167-fall24-notes/blob/main/Day23_CNN_finetuning.ipynb).
 6.  **Bumps in the Road** [1 point]: What challenges did you encounter? How did you overcome these challenges? Did you have to adapt your strategy to account for these challenges? Why or why not?
 7.  **Results** [3 point]: After you conduct your learning experiment, summarize the results you got. Include visualizations as appropriate. More explicitly, you should fill in the following table:
 
